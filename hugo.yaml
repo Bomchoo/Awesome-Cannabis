@@ -1,0 +1,6 @@
+baseURL: 'https://strainbook.org/'
+languageCode: en-us
+params:
+  subtitle: Awesome Cannabis List
+title: Awesome List of Cannabis Related Stuff
+theme: hugo-theme-relearn

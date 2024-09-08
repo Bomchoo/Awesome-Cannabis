@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/public/basics/index.html</loc>
+    <loc>https://strainbook.org/basics/</loc>
     <lastmod>2024-09-07T20:56:10+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/public/basics/third-content/index.html</loc>
+  </url><url>
+    <loc>https://strainbook.org/</loc>
     <lastmod>2024-09-07T20:56:10+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/public/basics/second-content/index.html</loc>
+  </url><url>
+    <loc>https://strainbook.org/basics/third-content/</loc>
+    <lastmod>2024-09-07T20:56:10+00:00</lastmod>
+  </url><url>
+    <loc>https://strainbook.org/basics/second-content/</loc>
     <lastmod>2024-09-07T20:56:05+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/public/basics/first-content/index.html</loc>
+  </url><url>
+    <loc>https://strainbook.org/basics/first-content/</loc>
     <lastmod>2024-09-07T20:55:59+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/public/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/public/tags/index.html</loc>
+  </url><url>
+    <loc>https://strainbook.org/categories/</loc>
+  </url><url>
+    <loc>https://strainbook.org/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,0 @@
-baseURL = 'https://strainbook.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-relearn'

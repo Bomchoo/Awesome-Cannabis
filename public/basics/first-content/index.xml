@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>First Content :: My New Hugo Site</title>
-    <link>http://localhost:1313/public/basics/first-content/index.html</link>
-    <description></description>
+    <title>First Content on Awesome List of Cannabis Related Stuff</title>
+    <link>https://strainbook.org/basics/first-content/</link>
+    <description>Recent content in First Content on Awesome List of Cannabis Related Stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/public/basics/first-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://strainbook.org/basics/first-content/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
